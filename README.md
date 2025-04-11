@@ -45,7 +45,7 @@ pip install requests beautifulsoup4
 ### 2. 运行脚本
 
 ```bash
-python book_downloader.py
+scrape_biqu.py
 ```
 
 按照提示输入目标小说编号（例如 `21776`），脚本将自动抓取并生成小说文本文件。
